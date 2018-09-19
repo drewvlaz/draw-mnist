@@ -1,4 +1,4 @@
-# An Interactive UI for MNIST with PyGame
+# An Interactive UI for MNIST
 
 
 This application is written using pygame.
