@@ -9,5 +9,6 @@ When first getting started with machine learning, there is a lack of resources t
 ## Important Notes
 
 You may need to change the path of the _data_ file after downlowding.
+
 Depending on your operating system, the font size may need to be adjusted.
 
