@@ -13,6 +13,7 @@ When first getting started with machine learning, there is a lack of resources t
 
 * You may need to change the path of the _data_ file after downlowding.
     ```python
+    i = 9
     saver.restore(sess, "YOUR_PATH/data/convolutional.ckpt")
     ```
 
