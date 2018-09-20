@@ -6,7 +6,7 @@ When getting started with machine learning, there are a lack of resources that a
 
 
 <img src="https://github.com/drewvlaz/draw_mnist/blob/master/thumbnail.jpg" alt="thumbnail" width="360"/>
-[comment]: <> (![Thumbnail](https://github.com/drewvlaz/draw_mnist/blob/master/thumbnail.jpg))
+<!---![Thumbnail](https://github.com/drewvlaz/draw_mnist/blob/master/thumbnail.jpg)--->
 
 ---
 
