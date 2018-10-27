@@ -375,8 +375,8 @@ def main():
             create_button("Clear", screen, orange, bright_orange, input_field[0] - 110, input_field[1] + edge_buffer[1] + 55, 120, 45)
             pygame.display.flip()
 
-""" the cnn model below is not my work """
-""" tutorial teaching how to use it: http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/ """
+""" tutorial teaching how to use following cnn model: 
+    http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/ """
 """ source code: https://github.com/adventuresinML/adventures-in-ml-code """
 
 x = tf.placeholder(tf.float32, [None, 784])
