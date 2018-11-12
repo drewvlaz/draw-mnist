@@ -375,9 +375,9 @@ def main():
             create_button("Clear", screen, orange, bright_orange, input_field[0] - 110, input_field[1] + edge_buffer[1] + 55, 120, 45)
             pygame.display.flip()
 
-""" tutorial teaching how to use following cnn model: 
-    http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/ """
-""" source code: https://github.com/adventuresinML/adventures-in-ml-code """
+# tutorial teaching how to use following cnn model: 
+# http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/
+# source code: https://github.com/adventuresinML/adventures-in-ml-code
 
 x = tf.placeholder(tf.float32, [None, 784])
 # dynamically reshape the input
@@ -427,7 +427,7 @@ bd2 = tf.Variable(tf.truncated_normal([10], stddev=0.01), name='bd2')
 dense_layer2 = tf.matmul(dense_layer1, wd2) + bd2
 y_ = tf.nn.softmax(dense_layer2)
 
-""" end of cnn model """
+# end of cnn model
 
 
 saver = tf.train.Saver()
