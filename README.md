@@ -4,8 +4,9 @@ A demo can be found on [youtube.](https://youtu.be/jn0ooptXEls "MNIST Interactiv
 
 When getting started with machine learning, there are a lack of resources that actually make use of a visual element to aid in teaching. This model, written in python and using tensorflow, is used to power a user interface with PyGame.
 
-
-<img src="https://github.com/drewvlaz/draw_mnist/blob/master/thumbnail.jpg" alt="thumbnail" width="460"/>
+<p align="center">
+    <img src="https://github.com/drewvlaz/draw_mnist/blob/master/thumbnail.jpg" alt="thumbnail" width="460"/>
+</p>
 <!---![Thumbnail](https://github.com/drewvlaz/draw_mnist/blob/master/thumbnail.jpg)--->
 
 ---
