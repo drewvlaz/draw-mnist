@@ -10,8 +10,3 @@ When getting started with machine learning, there are a lack of resources that a
 <!---![Thumbnail](https://github.com/drewvlaz/draw_mnist/blob/master/thumbnail.jpg)--->
 
 ---
-
-## Important Notes
-* Depending on your operating system, the font size may need to be adjusted.
-
-
